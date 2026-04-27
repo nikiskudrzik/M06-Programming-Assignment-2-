@@ -1,0 +1,35 @@
+Start program
+
+Display program title
+
+Ask user for minimum degree
+
+Create a B-Tree
+
+Repeat until user exits:
+
+    Display menu
+
+    Get user choice
+
+    If choice is 1:
+        Ask for value
+        Insert value into B-Tree
+
+        If root is full:
+            Split root
+            Create new root
+
+        Else:
+            Insert into correct node
+
+    If choice is 2:
+        Display B-Tree
+
+    If choice is 3:
+        End program
+
+    Else:
+        Show invalid choice message
+
+End program
