@@ -24,6 +24,10 @@ g++ main.cpp BTree.cpp -o btree
 
 ./btree
 
-## Testing
+## Program Testing
 
-- I have added three screenshots showing the working program.
+I have included 3 screenshots:
+- Program start (entering degree)
+- Inserting values (including invalid input example)
+- Displaying the B-Tree
+- Example values used: 10, 20, 5, 6, 12
